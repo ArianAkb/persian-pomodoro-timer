@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: 'Geist';
+    src: url('https://cdn.jsdelivr.net/fontsource/fonts/geist@latest/latin-400.woff2') format('woff2');
+  }
+
+  body {
+    @apply font-vazir bg-[#1a1310] text-[#d4a373];
+  }
+}
+
