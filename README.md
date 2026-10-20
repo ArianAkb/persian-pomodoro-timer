@@ -36,7 +36,7 @@ It was a fun exercise to see how fast you can turn an idea into a working produc
 ## 🚀 How I Built It
 
 1. Set up **9Router** locally to manage free model API endpoints and avoid rate limits.
-2. Pointed my coding agent(Cline in vscode) harness to `http://localhost:20128/v1`.
+2. Pointed my coding agent harness(Cline in vscode) to `http://localhost:20128/v1`.
 3. Designed prompts specifying RTL rules, custom video links, and glassmorphism styling constraints to avoid standard template looks.
 4. Tweaked and assembled the final single-file prototype.
 
