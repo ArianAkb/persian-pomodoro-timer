@@ -2,8 +2,7 @@
 
 A Farsi Pomodoro timer app built to explore coding with AI agents and setting up local proxy routes with 9Router.
 
-> **Live Demo:** [**Check out the live app here**](https://google.com) *(Update link after Vercel deployment)*
-
+> **Live Demo:** [**Check out the live app here**]([https://google.com](https://persian-pomodoro-timer.vercel.app/)) 
 ---
 
 ## 🎯 About This Project
